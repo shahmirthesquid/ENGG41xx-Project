@@ -1,6 +1,6 @@
 [
     {
-        "name": "projectName",
+        "name": "HKong",
         "type": "char",
         "length": 32,
         "direction": "display"
