@@ -1,6 +1,6 @@
 [
     {
-        "name": "projectName",
+        "name": "dturner",
         "type": "char",
         "length": 32,
         "direction": "display"
